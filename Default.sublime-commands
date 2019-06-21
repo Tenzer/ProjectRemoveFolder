@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Project: Remove Folder",
+        "command": "project_remove_folder"
+    }
+]
